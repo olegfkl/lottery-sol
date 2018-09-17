@@ -9,7 +9,6 @@ contract Inbox {
 
     function setMessage(string newMessage) public {
         message = newMessage;
-        int result = 2+2;
 
     }
 }
